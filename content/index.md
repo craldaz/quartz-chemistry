@@ -17,7 +17,6 @@ The Backlinks section shows all notes that are linked to the note you are lookin
 Cody Aldaz, PhD
 Sophena Zhao, PhD
 
-
 ## Contact
-codyaldaz@gmail.com
-sophenazhao@gmail.com
+- codyaldaz@gmail.com
+- sophenazhao@gmail.com
