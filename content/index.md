@@ -11,3 +11,13 @@ The **Local Graph View** offers a focused perspective, showing you the direct co
 For a broader perspective, switch to the **Global Graph View**. This comprehensive map displays all the topics in our database and their interconnections. It's a bird's eye view of the vast landscape of chemistry, perfect for exploring new topics or understanding the bigger picture. The global graph view can be toggled by clicking the graph icon on the top-right of the local graph view. It shows all the notes in your graph and how they connect to each other.
 
 The Backlinks section shows all notes that are linked to the note you are looking at, and the Explorer section shows you how the notes are organized into folders. 
+
+
+## Collaborators
+Cody Aldaz, PhD
+Sophena Zhao, PhD
+
+
+## Contact
+codyaldaz@gmail.com
+sophenazhao@gmail.com
